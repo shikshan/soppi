@@ -1,0 +1,44 @@
+name: soppi
+channels:
+  - defaults
+dependencies:
+  - atomicwrites=1.2.1=py37_0
+  - attrs=18.2.0=py37h28b3542_0
+  - autopep8=1.4.3=py37_0
+  - ca-certificates=2019.1.23=0
+  - certifi=2018.11.29=py37_0
+  - expat=2.2.6=h0a44026_0
+  - flake8=3.6.0=py37_0
+  - krb5=1.16.1=hddcf347_7
+  - libcurl=7.63.0=h051b688_1000
+  - libcxx=4.0.1=hcfea43d_1
+  - libcxxabi=4.0.1=hcfea43d_1
+  - libedit=3.1.20170329=hb402a30_2
+  - libffi=3.2.1=h475c297_4
+  - libiconv=1.15=hdd342a3_7
+  - libssh2=1.8.0=ha12b0ac_4
+  - mccabe=0.6.1=py37_1
+  - more-itertools=4.3.0=py37_0
+  - mypy=0.660=py37_0
+  - mypy_extensions=0.4.1=py37_0
+  - ncurses=6.1=h0a44026_1
+  - openssl=1.1.1b=h1de35cc_0
+  - perl=5.26.2=h4e221da_0
+  - pip=18.1=py37_0
+  - pluggy=0.8.0=py37_0
+  - py=1.7.0=py37_0
+  - pycodestyle=2.4.0=py37_0
+  - pyflakes=2.0.0=py37_0
+  - pytest=4.0.2=py37_0
+  - python=3.7.2=haf84260_0
+  - readline=7.0=h1de35cc_5
+  - setuptools=40.6.3=py37_0
+  - six=1.12.0=py37_0
+  - sqlite=3.26.0=ha441bb4_0
+  - tk=8.6.8=ha441bb4_0
+  - typed-ast=1.1.0=py37h1de35cc_0
+  - wheel=0.32.3=py37_0
+  - xz=5.2.4=h1de35cc_4
+  - zlib=1.2.11=h1de35cc_3
+prefix: /usr/local/anaconda3/envs/soppi
+

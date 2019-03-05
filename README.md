@@ -1,2 +1,3 @@
 # soppi
-A simple programming language for the sake of learning
+
+A simple programming language for understanding programming languages better
