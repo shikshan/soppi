@@ -1,4 +1,4 @@
-from setuptools import find_packages, setup
+from setuptools import setup
 import io
 
 
@@ -17,7 +17,7 @@ setup(name='soppi',
       author='Omkar Patil',
       author_email="ospatil@gmail.com",
       license='MIT',
-      packages=find_packages(),
+      packages=['soppi'],
       classifiers=[
           'Programming Language :: Python :: 3',
           'Programming Language :: Python :: 3.7'

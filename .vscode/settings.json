@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "/usr/local/anaconda3/envs/soppi/bin/python",
+  "python.pythonPath": "venv/bin/python",
   "workbench.colorCustomizations": {
     "activityBar.background": "#3F290F",
     "titleBar.activeBackground": "#583915",
